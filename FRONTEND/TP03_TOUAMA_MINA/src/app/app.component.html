@@ -1,0 +1,4 @@
+<div class="container">
+  <app-search-bar #searchComp></app-search-bar>
+  <app-list [searchObservable]="searchComp.search"></app-list>
+</div>

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "price": 25.99,
+        "description": "A high-precision wireless mouse with ergonomic design."
+    },
+    {
+        "id": 2,
+        "name": "Mechanical Keyboard",
+        "price": 79.99,
+        "description": "A durable mechanical keyboard with customizable RGB lighting."
+    },
+    {
+        "id": 3,
+        "name": "USB-C Hub",
+        "price": 39.99,
+        "description": "A versatile USB-C hub with multiple ports for connectivity."
+    },
+    {
+        "id": 4,
+        "name": "Noise Cancelling Headphones",
+        "price": 199.99,
+        "description": "Over-ear headphones with active noise cancellation and long battery life."
+    },
+    {
+        "id": 5,
+        "name": "4K Monitor",
+        "price": 349.99,
+        "description": "A 27-inch 4K UHD monitor with vibrant colors and high resolution."
+    },
+    {
+        "id": 6,
+        "name": "External SSD",
+        "price": 129.99,
+        "description": "A portable external SSD with fast read and write speeds."
+    },
+    {
+        "id": 7,
+        "name": "Smartphone Stand",
+        "price": 14.99,
+        "description": "An adjustable stand for smartphones and tablets."
+    },
+    {
+        "id": 8,
+        "name": "Bluetooth Speaker",
+        "price": 59.99,
+        "description": "A compact Bluetooth speaker with powerful sound and long battery life."
+    },
+    {
+        "id": 9,
+        "name": "Webcam",
+        "price": 49.99,
+        "description": "A high-definition webcam with built-in microphone for video calls."
+    },
+    {
+        "id": 10,
+        "name": "Wireless Charger",
+        "price": 29.99,
+        "description": "A fast wireless charger compatible with various devices."
+    }
+]

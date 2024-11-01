@@ -1,0 +1,12 @@
+<p>Recherche selon : {{ activeSearchProperty }}</p>
+<div>
+    <button (click)="setSearchProperty('name')">Name</button>
+    <button (click)="setSearchProperty('price')">Price</button>
+    <button (click)="setSearchProperty('description')">Description</button>
+</div>
+<div>
+<input 
+    type="text" 
+    (input)="onSearchChange($event)"
+    placeholder="Search..." />
+</div>
