@@ -10,7 +10,6 @@ import { SearchBarComponent } from "./search-bar/search-bar.component";
   imports: [RouterOutlet, ListComponent, SearchBarComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
-  
 })
 export class AppComponent {
   title = 'TP03_TOUAMA_MINA';
